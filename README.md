@@ -2,6 +2,12 @@ Not my tool. I forked this to fix an issue where forward slashes were not escape
 
 
 
+
+
+
+
+
+
 # JSON Escaper Burp Suite plugin
 The JSON Escaper Burp Suite plugin simplifies the process of escaping JSON payloads for pentesters, as there is no built-in option for this in Burp. This is especially true when working with JSON payloads and trying to ensure that they are properly escaped to prevent errors. It eliminates the need for manual escaping and ensures proper formatting for testing. With its simple interface, the plugin enables you to enter your payload, escape it, and display the result in a JTextArea where you can select and copy the text
 
