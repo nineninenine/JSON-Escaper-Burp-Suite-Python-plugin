@@ -1,4 +1,4 @@
-Not my tool. I forked this to fix an issue where forward slashes were not escaped. 
+#Not my tool. I forked this to fix an issue where forward slashes were not being escaped properly. fixed in this code.
 
 
 
